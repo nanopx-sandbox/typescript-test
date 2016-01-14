@@ -3,9 +3,7 @@
   "description": "typescript-boilerplate",
   "version": "0.0.0",
   "author": {
-    "name": "bouzuya",
-    "email": "m@bouzuya.net",
-    "url": "http://bouzuya.net"
+    "name": "nanopx",
   },
   "bugs": {
     "url": "https://github.com/nanopx-sandbox/typescript-test/issues"
